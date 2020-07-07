@@ -30,8 +30,8 @@ global skillUltimate := "r"
 ;which is on a different key.
 global barSwap := "``"
 ;Key to use to activate/suspend the script.
-;Default: "Tab"
-global suspendKey := "Tab"
+;Default: "NumLock"
+global suspendKey := "NumLock"
 ;Key to use for toggling skillFive on/off.
 ;Default: "^Tab" (ctrl+tab)
 global toggleFiveKey := "^Tab"
